@@ -1,0 +1,25 @@
+@media (max-width: 84em) {
+  .grid {
+    display: block;
+  }
+
+  .help {
+    column-gap: 1rem;
+  }
+
+  .get-in-touch {
+    margin-top: 10rem;
+  }
+
+  .container-foot {
+    display: block;
+  }
+
+  .social-media {
+    display: block;
+  }
+
+  .icons {
+    margin-left: 50rem;
+  }
+}
